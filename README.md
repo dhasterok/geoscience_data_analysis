@@ -8,11 +8,7 @@ The examples are woven into a set of notes using Matlab Live Scripts (mlx-files)
 To get started, clone (download) the repository.  You will also need the associated dataset, which can be found here: https://doi.org/10.5281/zenodo.6654816. Note: the datafiles also contain an archived version of the notes, but these may not be up to date.
 
 Derrick Hasterok
-
 Lecturer, Geophysics
-
 Department of Earth Sciences
-
 University of Adelaide
-
 derrick.hasterok@adelaide.edu.au
