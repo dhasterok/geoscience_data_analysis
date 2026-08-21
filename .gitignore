@@ -1,0 +1,13 @@
+
+# data
+data/
+latex/
+
+# virtual machines
+.venv
+
+# MacOS files
+.DS_Store*
+
+#
+*.pyc
