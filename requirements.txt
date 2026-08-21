@@ -1,0 +1,9 @@
+matplotlib
+scipy
+numpy
+pandas
+openpyxl
+scikit-learn
+scikit-learn-extra
+scikit-fuzzy
+netcdf4

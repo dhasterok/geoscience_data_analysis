@@ -9,5 +9,7 @@ latex/
 # MacOS files
 .DS_Store*
 
+gda_revised_outline.md
+
 #
 *.pyc
