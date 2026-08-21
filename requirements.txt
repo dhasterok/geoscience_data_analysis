@@ -1,3 +1,5 @@
+-e ../global_geochemistry
+
 matplotlib
 scipy
 numpy
